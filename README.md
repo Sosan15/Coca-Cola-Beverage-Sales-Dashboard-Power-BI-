@@ -37,13 +37,19 @@ Page 2: Sales
 Regional filters, city selection matrix, and a line chart showing Sales vs. Profit vs. Units Sold per month
 
 Tools & Features Used:
-Tool / Feature	Purpose:
+
 Power BI Desktop:	Interactive data visualization
+
 Slicers & Filters:	Dynamic selection by city, brand, date
+
 DAX Measures:	Operating margin, profit calculations
+
 Card Visuals:	Highlight KPIs
+
 Bar & Line Charts:	Time-series and brand performance
+
 Matrix Tables:	Financial brand overview
+
 Custom Theme:	Coca-Cola inspired dark red UI
 
 KPIs Tracked:
